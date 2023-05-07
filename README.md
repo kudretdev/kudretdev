@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lourity_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lourity_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uceruww2jqyi3wuervykff8g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uceruww2jqyi3wuervykff8g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/louritycode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="louritycode" height="30" width="40" /></a>
 <a href="https://discord.gg/altyapilar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="altyapilar" height="30" width="40" /></a>
 </p>
 
