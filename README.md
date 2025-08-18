@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-Stack Web Developer<br>🎨 Designer<br>📈 Trader<br>🚀 Entrepreneur <br>💡 Electronic Developer <br>📚 Student
+👨‍💻 Full-Stack Web Developer<br>🎨 Designer<br>📈 Trader<br>🚀 Entrepreneur
 
 
 ## 🌐 Socials:
