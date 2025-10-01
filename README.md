@@ -12,7 +12,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Developer GIF"/>
 
-Merhaba! Ben **Kudret**, tutkulu bir **Full-Stack Developer** ve **Entrepreneur**'üm. Modern web teknolojileri ile kullanıcı deneyimini ön planda tutan, ölçeklenebilir ve performanslı uygulamalar geliştiriyorum.
+Merhaba! Ben **Kudret**, tutkulu bir **Full-Stack Developer** ve **Girişimciyim**. Modern web teknolojileri ile kullanıcı deneyimini ön planda tutan, ölçeklenebilir ve performanslı uygulamalar geliştiriyorum.
 
 ```javascript
 const kudret = {
